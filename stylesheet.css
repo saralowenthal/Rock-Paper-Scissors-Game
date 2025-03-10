@@ -5,8 +5,8 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #FF6F61; /* Coral */
-    color: #fff; /* White text for contrast */
+    background-color: #FF6F61; 
+    color: #fff; 
     text-align: center;
     padding: 15px 30px;
     display: flex;
@@ -14,7 +14,7 @@ header {
     align-items: center;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
     z-index: 1000;
-    border-bottom: 4px solid #F7A8B8; /* Soft pink */
+    border-bottom: 4px solid #F7A8B8; 
     font-size: 26px;
     font-weight: 600;
     letter-spacing: 1px;
@@ -25,8 +25,8 @@ body {
     padding-top: 100px;
     text-align: center;
     font-family: 'Arial', sans-serif;
-    background-color: #f9f9f9; /* Light grey background */
-    color: #333; /* Dark text for readability */
+    background-color: #f9f9f9; 
+    color: #333; 
     line-height: 1.7;
     margin: 0;
 }
@@ -62,7 +62,7 @@ ul {
     font-size: 20px;
     font-weight: 600;
     cursor: pointer;
-    background-color: #6A4C8C; /* Muted purple */
+    background-color: #6A4C8C;
     color: white;
     border: none;
     border-radius: 12px;
@@ -72,7 +72,7 @@ ul {
 }
 
 #resetButton:hover {
-    background-color: #4A3C68; /* Darker purple on hover */
+    background-color: #4A3C68;
     transform: translateY(-3px);
 }
 
